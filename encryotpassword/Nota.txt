@@ -1,0 +1,2 @@
+Se debe de agregar al JRE los archivos dentro de la carpeta JARs de la aplicación y ahí viene el archivo para 
+la creación de la base de datos en postgresql como debe de ir el archivo test.sql
